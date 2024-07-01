@@ -27,12 +27,9 @@ p {
 
 .banner-second {
   position: relative;
-  /*
-  background-color: hsl(237, 17%, 21%);
-  overflow-y: hidden;*/
   border-radius: 0rem 4rem 0rem 4rem;
   padding: 100px 0px;
-  background-image: url('images/banner.png');
+  background-image: url("../images/banner.png");
   background-size: cover;
 }
 
