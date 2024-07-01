@@ -30,7 +30,7 @@ p {
   /*
   background-color: hsl(237, 17%, 21%);
   overflow-y: hidden;*/
-  border-radius: 0px 90px 0px 90px;
+  border-radius: 0rem 4rem 0rem 4rem;
   padding: 100px 0px;
   background-image: url('/images/banner.png');
   background-size: cover;
@@ -57,6 +57,7 @@ p {
   background-color: hsl(240, 10%, 16%);
   color: white;
   padding: 3rem 0rem;
+  border-radius: 0rem 4rem 0rem 0rem;
 }
 
 .footer h2 {
